@@ -1,6 +1,5 @@
 ## Hi there!👋
-I am a CS and Economics enthusiast.  
-<br> 
+I am a CS and Economics enthusiast.     
 Always down for Fintech Roles :)
 
 # 💻 Tech Stack:
